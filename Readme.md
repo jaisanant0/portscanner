@@ -5,9 +5,12 @@ nmapscan.py is a python script used to scan multiple ports of the given target a
 USAGE :
 
 Write below line in terminal to know how to use it :
-~ python3 nmapscan.py -h
-	 or
-~ python nmapscan.py -h
+
+python3 nmapscan.py -h
+	
+or
+
+python nmapscan.py -h
  
  
 -trghost : target host
