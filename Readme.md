@@ -8,7 +8,7 @@ Write below line in terminal to know how to use it :
 	 or
 	 ~ python nmapscan.py -h
         
-  -trghost : target host
-  -trgport : target port
+-trghost : target host
+-trgport : target port
 		 
 		 
